@@ -1,0 +1,499 @@
+body{
+	background-image: url(1.png);
+}
+
+#pusk{
+	width: 100%;
+	max-width: 850px;
+	margin: 0 auto;
+	background: white;
+	border-collapse: collapse;
+
+
+}
+#logo img {
+	width: 100%;
+	height: auto;
+}
+
+.a{
+	display: flex;
+	justify-content: center;
+	/*margin: -35px;*/
+}
+
+.a p{
+	font-size: 26px;
+	text-align: left;
+	padding: 0 20px;
+	/*line-height: 25px;*/
+}
+
+
+
+.b p{
+	font-size: 26px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+.c p{
+	margin-top: -20px;
+	font-size: 26px;
+	margin-left: 20px;
+}
+
+
+.d p{
+	font-size: 26px;
+	margin-left: 20px;
+	margin-top: -15px;
+}
+
+.e p{
+	font-size: 26px;
+	margin-left: 20px;
+	margin-top: -15px;
+}
+
+.f p{
+	font-size: 26px;
+	margin-left: 20px;
+	margin-top: -15px;
+}
+.g p{
+	font-size: 26px;
+	margin-left: 20px;
+	margin-top: -15px;
+}
+
+
+h1{
+	color: green;
+	display: flex;
+	justify-content: center;
+}
+
+.header__text {
+	display: flex;
+	flex-direction: column;
+	align-items:  center;
+}
+.header__text p {
+	align-self: flex-start;
+	
+	width: 70%;
+}
+.b{
+	font-weight: bold;
+}
+.h{
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 10px;
+}
+.h img{
+	height: 45px;
+}
+
+.l{
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+.l a{
+	color: #fff;
+    margin: 0 auto;
+	text-decoration: none;
+	padding: 10px 60px;
+	border: 1px solid green;
+	border-radius: 10px;
+	background: green;
+}
+.l a:hover{
+	color: red;
+	background-color: black;
+}
+
+hr{
+
+	border: 2px solid green;
+}
+
+
+.r{
+	display: flex;
+	justify-content: center;
+}
+.r h2{
+	color: green;
+}
+.r p{
+	color: blue;
+}
+.p{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.p img{
+	width:  350px;
+}
+.ab{
+	color: blue;
+}
+.ac{
+	color: orange;
+	display: flex;
+	justify-content: space-between;
+}
+.ac img{
+	width: 120px;
+	height: 20px;
+}
+.ba{
+	display: flex;
+	justify-content: space-between;
+	color: red;
+	font-size: 36px;
+}
+.bb{
+	color: black;
+	font-size: 36px;
+	text-decoration: line-through;
+
+}
+.bc{
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+.bc a{
+	color: #fff;
+    margin: 0 auto;
+	text-decoration: none;
+	padding: 10px 60px;
+	border: 1px solid green;
+	border-radius: 10px;
+	background: green;
+}
+.bc a:hover{
+	color: red;
+	background-color: black;
+}
+.asd h2{
+	display: flex;
+	justify-content: center;
+	color: orange;
+}
+
+
+.zxc{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+.zxc p{
+	color: blue;
+	font-size: 29px;
+	letter-spacing: 5px;
+	line-height: 1.4;
+}
+
+.zxc img{
+	width:  500px;
+}
+.qwe{
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+.qwe a{
+	color: #fff;
+    margin: 0 auto;
+	text-decoration: none;
+	padding: 10px 60px;
+	border: 1px solid green;
+	border-radius: 10px;
+	background: orange;
+}
+.qwe a:hover{
+	color: red;
+	background: black;
+}
+
+.pop{
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+.pop h2{
+	color: green;
+}
+.cat{
+	display: flex;
+	justify-content: center;
+	
+}
+.cat p{
+	color: blue;
+	font-size: 29px;
+	letter-spacing: 3px;
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+.blo{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-top: 5px;
+}
+.blo a{
+	color: #fff;
+    margin: 0 auto;
+	text-decoration: none;
+	padding: 8px 60px;
+	border: 1px solid green;
+	border-radius: 10px;
+	background: green;
+	line-height: 1.2;
+	display: flex;
+	justify-content: center;
+	
+}
+.blo a:hover{
+	color: red;
+	background: black;
+}
+.lustochok{
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	margin-top: -40px;
+}
+.lustochok img{
+  height: 60px;
+  width: 60px;
+}
+.lustochok h2{
+	font-size: 58px;
+}
+.porady{
+	display: flex;
+	justify-content: center;
+	margin-top: -80px;
+
+	
+}
+.porady p{
+	color: blue;
+	font-size: 29px;
+	letter-spacing: 1px;
+
+}
+.social{
+	display: flex;
+	justify-content: space-evenly;
+}
+.social img{
+	width: 50px;
+	height: 50px;
+}
+.sad{
+	display: flex;
+	justify-content: center;
+}
+.sad p{
+	color: grey;
+	font-size: 29px;
+	letter-spacing: 2px;
+}
+.pp{
+	display: flex;
+	justify-content: center;
+	background-color: grey;
+
+}
+.pp a{
+	color: black;
+}
+
+
+.r p{
+	font-size: 20px;
+}
+
+
+
+@media screen and (max-width: 1100px){
+	.a p{
+		font-size: 26px;
+	}
+	.b p{
+		margin-top: -10px;
+	}
+
+	.p img{
+		width: 80%;
+		margin-left: 10%;
+	}
+	.p p img{
+		width: 30%;
+	}
+
+	.zxc img{
+		width: 80%;
+		margin-left: 10%;
+	}
+	td {
+		width: 100%;
+	}
+	.h td{
+		display: flex;
+	justify-content: flex-end;
+	margin-right: 10px;
+	}
+
+	.l a{
+		display: flex;
+		justify-content: center;
+		padding: 10px 60px;
+      
+      width: 100px;
+	}
+
+	.r p{
+		display: flex;
+		justify-content: center;
+	}
+	.r h2{
+		display: flex;
+		justify-content: center;
+	}
+	.p p,.p h2{
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+.bc td{
+	display: flex;
+	justify-content: center;
+}
+.zxc p{
+	display: flex;
+	justify-content: center;
+}
+.qwe td{
+	display: flex;
+	justify-content: center;
+}
+.pop h2{
+	display: flex;
+	justify-content: center;
+}
+.cat p{
+	display: flex;
+	justify-content: center;
+}
+.lustochok h2{
+	display: flex;
+	justify-content: center;
+}
+.porady p{
+	display: flex;
+	justify-content: center;
+}
+.social a{
+	display: flex;
+	justify-content: center;
+}
+.sad p{
+	display: flex;
+	justify-content: center;
+}
+.pp td{
+	display: flex;
+	justify-content: center;
+}
+
+}
+.blo td{
+	margin: 5px;
+}
+.blo a{
+	width: 100px;
+	
+}
+}
+
+@media screen and (max-width: 800px){
+	.a p{
+		font-size: 22px;
+	}
+	#pusk{
+		max-width: 690px;
+	}
+	.cat p{
+		font-size: 22px;
+	}
+
+}
+
+@media screen and (max-width: 450px){
+	
+.a p,
+.b p,
+.c p,
+.d p,
+.e p,
+.f p,
+.g p{
+		font-size: 19px;
+
+	}
+	.zxc p{
+		font-size: 20px;
+	}
+
+
+
+.porady p{
+	font-size: 25px;
+}
+
+.asd h2{
+	
+	font-size: 20px;
+	
+}
+.cat p{
+	
+	letter-spacing: 0.1px;
+	font-size: 17px;
+}
+.lustochok h2{
+	font-size: 30px;
+}
+.lustochok img{
+	width: 35px;
+	height: 35px;
+}
+.lustochok td{
+	margin: 20px;
+}
+.porady p{
+	font-size: 15px;
+	margin-top: 35px;
+}
+.social img{
+	width: 35px;
+	height: 35px;
+}
+.sad p{
+	font-size: 16px;
+}
+.pp td{
+	font-size: 12px;
+}
+}
+
